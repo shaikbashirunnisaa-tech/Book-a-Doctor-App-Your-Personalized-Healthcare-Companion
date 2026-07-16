@@ -16,7 +16,7 @@ Built using the **MERN Stack (MongoDB, Express.js, React.js, and Node.js)**, the
 * **Authentication:** JSON Web Token (JWT)
 * **Payment Integration:** Stripe & Razorpay
 
----
+---Live Demo:https://prescriptoapp-wheat.vercel.app/
 
 # ✨ Features
 
@@ -237,5 +237,3 @@ Contributions are welcome. Feel free to fork this repository, create a new branc
 # 🙏 Acknowledgements
 
 Special thanks to the developers and communities behind **MongoDB**, **Express.js**, **React.js**, **Node.js**, **JWT**, **Stripe**, and **Razorpay** for providing the technologies that made this project possible.
-
-
