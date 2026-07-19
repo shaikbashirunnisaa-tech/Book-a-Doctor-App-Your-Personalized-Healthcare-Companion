@@ -228,12 +228,4 @@ Book-a-Doctor-App/
 
 ---
 
-# 🤝 Contributing
 
-Contributions are welcome. Feel free to fork this repository, create a new branch, and submit a pull request with improvements or bug fixes.
-
----
-
-# 🙏 Acknowledgements
-
-Special thanks to the developers and communities behind **MongoDB**, **Express.js**, **React.js**, **Node.js**, **JWT**, **Stripe**, and **Razorpay** for providing the technologies that made this project possible.
