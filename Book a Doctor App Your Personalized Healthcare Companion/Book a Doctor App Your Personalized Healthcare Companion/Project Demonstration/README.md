@@ -12,6 +12,24 @@ https://drive.google.com/file/d/1_BbQTKYWJfyS-2KR5IZYpSRMMPTmTSP_/view?usp=drive
 ## LIve Demo
 https://prescriptoapp-wheat.vercel.app/
 
+
+## Screenshots
+
+### Home Page
+![Home](Home.png)
+
+### Login Page
+![Login](Login.png)
+
+### Doctor List
+![Doctor List](Doctor_List.png)
+
+### Appointment Booking
+![Appointment](Appointment_Booking.png)
+
+### Admin Dashboard
+![Admin Dashboard](Admin_Dashboard.png)
+
 ## Demonstration Steps
 1. User Registration
 2. User Login
