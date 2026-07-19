@@ -9,6 +9,9 @@ https://github.com/shaikbashirunnisaa-tech/Book-a-Doctor-App-Your-Personalized-H
 ## Demo Video
 https://drive.google.com/file/d/1_BbQTKYWJfyS-2KR5IZYpSRMMPTmTSP_/view?usp=drivesdk
 
+## LIve Demo
+https://prescriptoapp-wheat.vercel.app/
+
 ## Demonstration Steps
 1. User Registration
 2. User Login
