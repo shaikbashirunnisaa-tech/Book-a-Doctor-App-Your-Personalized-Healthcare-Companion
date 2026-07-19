@@ -123,6 +123,7 @@ npm run dev
 📂 Project Structure
 Book-a-Doctor-App-Your-Personalized-Healthcare-Companion/
 │
+```text
 ├── 1. Ideation Phase/
 │   └── README.md
 │
@@ -159,6 +160,7 @@ Book-a-Doctor-App-Your-Personalized-Healthcare-Companion/
 │   └── package.json
 │
 └── README.md
+```
 This repository contains a full-stack MERN healthcare appointment booking application along with complete project documentation.
 
 Ideation Phase – Project idea, objectives, and problem statement.
