@@ -191,7 +191,7 @@ npm run dev
 ---
 ## 📂 Project Structure
 
-text
+'''text
 Book-a-Doctor-App-Your-Personalized-Healthcare-Companion/
 │
 ├── 1. Ideation Phase/
@@ -229,7 +229,7 @@ Book-a-Doctor-App-Your-Personalized-Healthcare-Companion/
 │   ├── server.js
 │   └── package.json
 │
-└── README.md
+└── README.md'''
 
 
 
