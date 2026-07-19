@@ -4,10 +4,10 @@
 Book a Doctor App: Your Personalized Healthcare Companion
 
 ## GitHub Repository
-(Add your GitHub repository link here)
+https://github.com/shaikbashirunnisaa-tech/Book-a-Doctor-App-Your-Personalized-Healthcare-Companion.git
 
 ## Demo Video
-(Add your Google Drive demo video link here)
+https://drive.google.com/file/d/1_BbQTKYWJfyS-2KR5IZYpSRMMPTmTSP_/view?usp=drivesdk
 
 ## Demonstration Steps
 1. User Registration
