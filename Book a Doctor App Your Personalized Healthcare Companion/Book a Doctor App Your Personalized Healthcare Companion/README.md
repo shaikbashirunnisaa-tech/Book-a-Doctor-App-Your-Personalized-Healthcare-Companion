@@ -189,11 +189,9 @@ npm run dev
 ```
 
 ---
-
-
 ## 📂 Project Structure
 
-
+text
 Book-a-Doctor-App-Your-Personalized-Healthcare-Companion/
 │
 ├── 1. Ideation Phase/
@@ -220,8 +218,7 @@ Book-a-Doctor-App-Your-Personalized-Healthcare-Companion/
 ├── frontend/
 │   ├── public/
 │   ├── src/
-│   ├── package.json
-│   └── ...
+│   └── package.json
 │
 ├── backend/
 │   ├── config/
@@ -230,9 +227,12 @@ Book-a-Doctor-App-Your-Personalized-Healthcare-Companion/
 │   ├── models/
 │   ├── routes/
 │   ├── server.js
-│   ├── package.json
-│   └── ...
+│   └── package.json
 │
+└── README.md
+
+
+
 
 
 
