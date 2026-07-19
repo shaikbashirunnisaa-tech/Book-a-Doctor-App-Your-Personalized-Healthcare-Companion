@@ -16,7 +16,7 @@ https://prescriptoapp-wheat.vercel.app/
 ## Screenshots
 
 ### Home Page
-![Home](Home.png)
+Book a Doctor App Your Personalized Healthcare Companion/Book a Doctor App Your Personalized Healthcare Companion/Project Demonstration/Screenshot 2026-07-19 140622.png
 
 ### Login Page
 ![Login](Login.png)
