@@ -190,31 +190,63 @@ npm run dev
 
 ---
 
-# 📁 Project Structure
 
-```plaintext
-Book-a-Doctor-App/
+## 📂 Project Structure
+
+
+Book-a-Doctor-App-Your-Personalized-Healthcare-Companion/
+│
+├── 1. Ideation Phase/
+│   └── README.md
+│
+├── 2. Requirement Analysis/
+│   └── README.md
+│
+├── 3. Project Design Phase/
+│   └── README.md
+│
+├── 4. Project Planning/
+│   └── README.md
+│
+├── 5. Project Development/
+│   └── README.md
+│
+├── 6. Project Documentation/
+│   └── README.md
+│
+├── 7. Project Demonstration/
+│   └── README.md
 │
 ├── frontend/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   └── context/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── ...
 │
 ├── backend/
+│   ├── config/
 │   ├── controllers/
-│   ├── routes/
 │   ├── middleware/
 │   ├── models/
-│   ├── config/
-│   └── server.js
+│   ├── routes/
+│   ├── server.js
+│   ├── package.json
+│   └── ...
 │
-├── package.json
-├── README.md
-└── .env
-```
 
----
+
+
+This repository contains a full-stack MERN healthcare appointment booking application along with complete project documentation.
+
+- *Ideation Phase* – Project idea, objectives, and problem statement.
+- *Requirement Analysis* – Functional and non-functional requirements.
+- *Project Design Phase* – System architecture, database design, and UI planning.
+- *Project Planning* – Timeline, milestones, and development roadmap.
+- *Project Development* – Development process and implementation details.
+- *Project Documentation* – Technical documentation, installation guide, and user manual.
+- *Project Demonstration* – Demo video, screenshots, and project presentation.
+- *frontend* – React.js client application.
+- *backend* – Node.js, Express.js, and MongoDB server application.
 
 # 🎯 Key Benefits
 
