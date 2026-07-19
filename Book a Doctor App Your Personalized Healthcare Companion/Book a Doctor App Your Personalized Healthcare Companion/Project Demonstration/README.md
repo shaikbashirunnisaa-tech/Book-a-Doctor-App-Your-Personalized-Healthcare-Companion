@@ -22,7 +22,7 @@ Book a Doctor App Your Personalized Healthcare Companion/Book a Doctor App Your 
 Book a Doctor App Your Personalized Healthcare Companion/Book a Doctor App Your Personalized Healthcare Companion/Project Demonstration/Screenshot 2026-07-19 140639.png
 
 ### Appointment Booking
-![Appointment](Appointment_Booking.png)
+Book a Doctor App Your Personalized Healthcare Companion/Book a Doctor App Your Personalized Healthcare Companion/Project Demonstration/Screenshot 2026-07-19 140710.png
 
 ### Admin Dashboard
 ![Admin Dashboard](Admin_Dashboard.png)
